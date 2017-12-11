@@ -1,0 +1,14 @@
+
+a{
+	font-size:16px;
+	color:#FF0000;
+      transition: all 0.3s ease-in;
+      text-decoration:none;
+}
+
+a:hover{
+	-webkit-stroke-width: 5.3px;
+      -webkit-stroke-color: #FF0000;
+      -webkit-fill-color: #FF0000;
+      text-shadow: 1px 0px 20px yellow;
+}

@@ -1,0 +1,14 @@
+.container{
+  max-width: 960px;
+  margin: 0 auto;
+  background: #FFFFFF;
+  font-size: 24px;
+  padding: 25px;
+}
+
+.parallax{
+  background: url('digitaldeath.jpg') no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 500px;
+}
