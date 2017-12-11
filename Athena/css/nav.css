@@ -7,6 +7,8 @@
 .topbar-responsive .topbar-responsive-logo {
   color: #fefefe;
   vertical-align: middle;
+  font-family: 'GrundschriftRegular'; 
+  font-size: 25px;
 }
 
 .topbar-responsive .menu {
@@ -20,10 +22,12 @@
 .topbar-responsive .menu a {
   color: #fefefe;
   transition: color 0.15s ease-in;
+  font-family: 'GrundschriftRegular'; 
 }
 
 .topbar-responsive .menu a:hover {
   color: #c6d1d8;
+  font-family: 'GrundschriftRegular'; 
 }
 
 @media screen and (max-width: 39.9375em) {
@@ -37,6 +41,7 @@
   border-color: #fefefe;
   border-radius: 5000px;
   transition: color 0.15s ease-in, border-color 0.15s ease-in;
+  font-family: 'GrundschriftRegular'; 
 }
 
 .topbar-responsive .menu .topbar-responsive-button:hover {

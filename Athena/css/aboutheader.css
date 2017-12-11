@@ -14,7 +14,7 @@ h2 {
 	text-align: center;
 	color: white;
 	margin: 20px;
-	font-family: 'JustLettersMedium'; 
+	font-family: 'GlacialIndifferenceRegular'; 
 	font-weight: normal; 
 	font-style: normal;
 	font-size: 70px;
@@ -23,25 +23,40 @@ h2 {
 h3 {
 	text-align: center;
 	color: white;
-	margin: 30px;
-	font-family: 'ConnectionRegular'; 
+	margin: 10px;
+	font-family: 'GlacialIndifferenceRegular'; 
 	font-weight: normal; 
 	font-style: normal;
-	font-size: 70px;
+	font-size: 40px;
+}
+
+h4 {
+	text-align:center;
+	margin: 50px;
+}
+
+h5 {
+	text-align: center;
+	color: white;
+	margin: 20px;
+	font-family: 'GlacialIndifferenceRegular'; 
+	font-weight: normal; 
+	font-style: normal;
+	font-size: 15px;
 }
 
 p {
 	text-align: center;
 	color: white;
 	margin: 20px;
-	font-family: 'GrundschriftRegular'; 
+	font-family: 'GlacialIndifferenceRegular'; 
    font-weight: normal; 
    font-style: normal; 
    font-size: 25px;
 }
 
 li {
-	font-family: 'GrundschriftRegular'; 
+	font-family: 'GlacialIndifferenceRegular';
 	font-weight: normal; 
 	font-style: normal; 
 	font-size: 25px;

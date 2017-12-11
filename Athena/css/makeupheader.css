@@ -1,6 +1,6 @@
 body {
     background-position: center;
-    background-image: url(Black-Background-Image-Picture.png);
+    background-image: url(tumblr_mtygnj0ELN1s5jjtzo1_400.gif);
     background-attachment: fixed;
 }
 
@@ -14,17 +14,17 @@ h2 {
 	text-align: center;
 	color: white;
 	margin: 20px;
-	font-family: 'JustLettersMedium'; 
+	font-family: 'BebasNeueBold';
 	font-weight: normal; 
 	font-style: normal;
-	font-size: 70px;
+	font-size: 140px;
 }
 
 h3 {
 	text-align: center;
 	color: white;
-	margin: 30px;
-	font-family: 'ConnectionRegular'; 
+	margin: 50px;
+	font-family: 'BebasNeueBold';
 	font-weight: normal; 
 	font-style: normal;
 	font-size: 70px;
@@ -34,15 +34,15 @@ p {
 	text-align: center;
 	color: white;
 	margin: 20px;
-	font-family: 'GrundschriftRegular'; 
+	font-family: 'BebasNeueBold';
    font-weight: normal; 
-   font-style: normal; 
-   font-size: 25px;
+   font-style: normal;
+   	font-size: 40px; 
 }
 
 li {
-	font-family: 'GrundschriftRegular'; 
+	font-family: 'BebasNeueBold'; 
 	font-weight: normal; 
 	font-style: normal; 
-	font-size: 25px;
+	font-size: 40px; 
 }
